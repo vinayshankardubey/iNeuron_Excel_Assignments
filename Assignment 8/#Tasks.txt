@@ -1,0 +1,1 @@
+The Challenge before you is to write a formula to clean the data. If you perform any mathematical operation on the data, it will return #VALUE error. You need to clean the data through a formula. (Problem-Workbook)
