@@ -1,0 +1,6 @@
+1.	Find the maximum and minimum and sum of all the radiation amounts.
+2.	radiation amount
+3.	Find the count and Rank
+4.	Compute the mean and standard deviation of the radiation amounts.  
+5.	Describe a certain objective a researcher might have had in mind when collecting this data.
+
